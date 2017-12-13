@@ -7,3 +7,7 @@ $pages = [
     'blog' => 'Blog',
     'contact' => 'Contact',
 ];
+$serverName = "localhost";
+$username = "root";
+$password = "root";
+$dbName = "portfoliocweb16";
